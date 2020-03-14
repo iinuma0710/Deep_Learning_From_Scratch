@@ -2,6 +2,8 @@
 「ゼロから作る Deep Learning」の勉強用リポジトリです．
 
 ## 第1章 Python 入門
+Python の変数や関数，NumPy，Matplotlib についてのまとめ．
+基礎事項なので省略．
 
 ## 第2章 パーセプトロン
 
